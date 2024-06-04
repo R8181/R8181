@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rupendra Prajapati</h1>
-<h3 align="center">I am a dedicated and skilled frontend developer with a strong proficiency in HTML, CSS, Bootstrap, and JavaScript. With a keen eye for design and a commitment to crafting engaging user experiences, I specialize in frontend development and strive to create visually stunning and highly functional websites. Currently, I am pursuing MERN Stack training at Ducat, where I am expanding my skill set to include MongoDB, Express.js, React.js, and Node.js. This training is equipping me with the knowledge and expertise needed to develop dynamic and robust full-stack applications, further enhancing my capabilities in web development. Eager to excel in the field of web designing and development, I am always seeking opportunities to challenge myself and expand my knowledge base. With a strong focus on continuous learning and growth, I am committed to staying updated on the latest trends and technologies in the industry. Let's connect and explore how we can collaborate to bring your web development projects to life!</h3>
+<h3 align="center">🌟 Frontend Developer | Aspiring Full-Stack Engineer 🌟
+
+🔹 Proficient in HTML, CSS, Bootstrap, and JavaScript
+🔹 Passionate about crafting visually stunning and functional websites
+🔹 Currently expanding my skills with MERN Stack (MongoDB, Express.js, React.js, Node.js) 
+
+🚀 Committed to continuous learning and staying updated on the latest web development trends
+🎨 Focused on delivering engaging user experiences and dynamic applications
+
+💡 Let's connect and bring your web development projects to life!
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r8181&label=Profile%20views&color=0e75b6&style=flat" alt="r8181" /> </p>
 
